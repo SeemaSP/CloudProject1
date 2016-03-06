@@ -2,6 +2,6 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <h3>Your application description page.</h3>
-    <p>Use this area to provide additional information.</p>
+    <h3>This application is just a basic application</h3>
+    <p>We have developed this calculator using c#.NET.We have pushed this application to the CloudProject1 repository of GIitHub where we have created an account.From there we clone it to ...........</p>
 </asp:Content>

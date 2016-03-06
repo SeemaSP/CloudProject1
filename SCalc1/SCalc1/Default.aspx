@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
-   <table>  
+    <table>  
         <tr>  
             <td colspan="4">  
                  </td>  
@@ -91,4 +91,5 @@
             </td>  
         </tr>  
         
+</table>
 </asp:Content>
